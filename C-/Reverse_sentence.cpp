@@ -29,7 +29,7 @@ string convertToString(char* a, int size)
 
 int main(int argc, char const *argv[])
 {
-    string sentence = "I love programming";
+    string sentence = "I love programming SooooOOOO much";
     ReverseSentence(std::addressof(sentence));
     return 0;
 }
